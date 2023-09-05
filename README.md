@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Dogukan 👋
+
+This page will be updated soon.
 
 <!--
 **aksudogukan/aksudogukan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
