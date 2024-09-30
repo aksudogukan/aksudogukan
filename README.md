@@ -1,4 +1,4 @@
-### Hi there, I am Doğukan 👋
+### Hi there, I am Dogukan 👋
 
 I am an **AI Tech Lead & Principal AI Scientist** with extensive experience in AI research and development, particularly in deep learning and machine learning. I have worked on diverse projects, from **intrusion detection** to **click-through rate (CTR) prediction** in programmatic advertising. My career spans both academia and industry, where I have contributed to cutting-edge AI solutions, collaborated on large-scale research projects, and mentored engineers and researchers.
 
