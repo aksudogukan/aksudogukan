@@ -1,6 +1,6 @@
 ### Hi there, I am Dogukan 👋
 
-I am a **Principal Applied Scientist and AI Tech Lead** with extensive experience in AI research and development, particularly in deep learning and machine learning. I have worked on diverse projects, from **intrusion detection** to **click-through rate (CTR) prediction** in programmatic advertising. My career spans both academia and industry, where I have contributed to cutting-edge AI solutions, collaborated on large-scale research projects, and mentored engineers and researchers.
+I am a **Principal Applied Scientist** with extensive experience in AI research and development, particularly in deep learning and machine learning. I have worked on diverse projects, from **intrusion detection** to **click-through rate (CTR) prediction** in programmatic advertising. My career spans both academia and industry, where I have contributed to cutting-edge AI solutions, collaborated on large-scale research projects, and mentored engineers and researchers.
 
 🔭 I’m currently working at **TUBITAK BILGEM** on AI-driven solutions for **deepfake detection** and **building a chatbot**.  
 🌱 I’m currently learning more about **graph generative models** and **optimization techniques** in AI applications.  
