@@ -4,7 +4,7 @@ I am a **Principal Applied Scientist** with extensive experience in AI research 
 
 🔭 I’m currently working at **TUBITAK BILGEM** on AI-driven solutions for **deepfake detection** and **building a chatbot**.  
 🌱 I’m currently learning more about **graph generative models** and **optimization techniques** in AI applications.  
-👯 I’m looking to collaborate on AI projects involving **CTR/CVR prediction**, **intrusion detection**, **graph theory**, and **machine learning applications**.  
+🤝 I’m looking to collaborate on AI projects involving **CTR/CVR prediction**, **intrusion detection**, **graph theory**, and **machine learning applications**.  
 🤔 I’m seeking new challenges in advancing **LLMs** and **generative AI** for various applications.  
 💬 Ask me about **AI, deep learning models**, or **my latest research on CTR prediction**.  
 📫 How to reach me: dogukanaksu.research[at]gmail.com  
