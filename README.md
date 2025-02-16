@@ -5,7 +5,7 @@ I am a **Research Fellow** with extensive experience in AI research and developm
 🔭 I’m currently working at **CSIT, QUB**, focusing on **AI-driven cybersecurity solutions** and **trustworthy AI applications**.  
 🌱 I’m currently exploring more about **spiking neural networks** and **federated learning** for AI security.  
 🤝 I’m looking to collaborate on AI projects involving **CTR/CVR prediction**, **intrusion detection**, **graph theory**, and **secure machine learning applications**.  
-🤔 I’m seeking new challenges in advancing **LLMs**' **generative AI**', and **robust AI systems** for real-world applications.  
+🤔 I’m seeking new challenges in advancing **LLMs**, **generative AI**, and **robust AI systems** for real-world applications.  
 💬 Ask me about **AI, deep learning models**, or **my latest research on CTR prediction**.  
 📫 How to reach me: d.aksu[at]qub.ac.uk  
 ⚡ Fun fact: I’ve worked on projects ranging from **gaze estimation systems** for people with disabilities to **autonomous vehicle development**!
