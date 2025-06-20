@@ -14,6 +14,6 @@ I am a **Research Fellow** with extensive experience in AI research and developm
 - **Languages**: Python, C++, C#, Java, SQL  
 - **Frameworks**: TensorFlow, PyTorch, Keras  
 - **Tools**: Docker, Apache Spark, MLOps, DataOps, Git, Overleaf  
-- **Expertise**: Machine learning, Deep learning, Cybersecurity, Recommender Systems, Intrusion Detection Systems
+- **Expertise**: Machine learning, Deep learning, AI Security, Recommender Systems, Intrusion Detection Systems
 
 Feel free to explore my [GitHub repositories](https://github.com/aksudogukan), visit my [webpage](https://aksudogukan.github.io/), or connect with me on [LinkedIn](https://www.linkedin.com/in/dogukanaksu).
