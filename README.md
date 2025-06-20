@@ -1,6 +1,6 @@
 ### Hi there, I am Dogukan 👋
 
-I am a **Research Fellow** with extensive experience in AI research and development, particularly in deep learning and cybersecurity. I have worked on diverse projects, from **intrusion detection** to **click-through rate (CTR) prediction** in programmatic advertising. My career spans both academia and industry, where I have contributed to cutting-edge AI solutions, collaborated on large-scale research projects, and mentored engineers and researchers.
+I am a **Research Fellow** with extensive experience in AI research and development, particularly in deep learning and AI security. I have worked on diverse projects, from **intrusion detection** to **click-through rate (CTR) prediction** in programmatic advertising. My career spans both academia and industry, where I have contributed to cutting-edge AI solutions, collaborated on large-scale research projects, and mentored engineers and researchers.
 
 🔭 I’m currently working at **CSIT, QUB**, focusing on **AI-driven cybersecurity solutions** and **trustworthy AI applications**.  
 🌱 I’m currently exploring more about **spiking neural networks** and **federated learning** for AI security.  
